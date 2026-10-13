@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SosninRA.Sprint2.Task
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SosninRA.Sprint2.Task0.V20.Test", "Tyuiu.SosninRA.Sprint2.Task0.V20.Test\Tyuiu.SosninRA.Sprint2.Task0.V20.Test.csproj", "{187A325E-5902-4D36-BBFA-E8DA8C6202B5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{30DF297F-516B-4778-8452-9700C0942544}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
